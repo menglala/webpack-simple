@@ -1,0 +1,8 @@
+div {
+  color: red;
+  width: 750px;
+}
+
+.box {
+  display: flex;
+}
